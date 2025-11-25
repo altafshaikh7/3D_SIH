@@ -1,0 +1,5 @@
+{
+  "name": "Substation Digital Twin",
+  "description": "A 3D digital twin visualization of a 220kV power substation with real-time monitoring dashboards, translated to English.",
+  "requestFramePermissions": []
+}
